@@ -44,5 +44,5 @@ cd assembly-language-app
   ```
   docker compose up  
   ```
-![Screenshot (475)]()
-![Screenshot (474)]()
+![Screenshot (475)](https://github.com/Neyazwakil/Miko-Assignment/blob/master/Screenshot%20(51).png)
+
